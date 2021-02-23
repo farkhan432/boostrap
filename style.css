@@ -1,0 +1,418 @@
+body{
+    
+    background-size: cover;
+    background-attachment: fixed;
+}
+button {
+    position: absolute;
+    width: 153px;
+    height: 48px;
+    left: 850px;
+    top: 20px;
+    background: #ffffff;
+    border-radius: 8px; 
+  }
+.btn2{
+    margin-left: auto;
+}
+.gambarpojok{
+    position:absolute;
+    left: 1000px;
+    right: -0.1%;
+    top:-140px;
+    bottom: none;
+    transform: rotate(-18.43deg);
+    color: (180deg, rgb(224, 196, 252,0.9)0%, rgba(144, 198, 253, 0.9)100%);
+    opacity: 30%;
+}
+.gambarpijik{
+    margin-left: 100px;
+}
+#gambar img{
+    width: 1349px;
+    opacity: 0.2;
+    
+   
+}
+#bawah1{
+    margin-top:30px;
+}
+.kihiy{
+    margin-top: 0px;
+    z-index: 1;
+    position: absolute;
+}
+
+#yeah{
+    margin-top: 50px;
+    width: 550px;
+    margin-left: 50px;
+    height: 450px;
+    
+}
+#yeah2{
+    margin-top:200px;
+    width: 550px;
+    
+    margin-left: 50px;
+    
+}
+.box1{
+    margin-block:  20px;
+    margin-left: 50px;
+    margin-top: -650px;
+}
+.box2{
+    margin-top: 480px;
+    text-align: center;
+    font-size: 30px;
+    
+}
+.box3{
+    background:blanchedalmond;
+    margin-top: 50px;
+    height: 320px;
+}
+#box2{
+    background-color: burlywood;
+    width: 500px;
+    height: 400px;
+    margin-left: 550px;
+    margin-top: -500px;  
+}
+#box3{
+    background: rgb(217, 219, 217);
+    width: 600px;
+    height: 500px;
+    margin-left: 550px;
+    margin-top: -400px;      
+}
+#box2 h1{
+    margin-left: 70px;
+    font-size: 20px;
+}
+#mobil1{
+    width: 550px;
+    height: 455px;
+    margin-top: -69px;
+    margin-left: -30px;
+}
+
+#itu{
+    margin-left:70px;
+    margin-top: 50px;
+    font-family:'Times New Roman', Times, serif ;
+}
+#itu2{
+    margin-top: 10px;
+    margin-left: 70px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#itu3{
+    font-size: 16px;
+    margin-top: 50px;
+    margin-left: 70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.card{
+    width: 20rem;
+    margin-top: 20px;
+    margin-left: 120px;
+    text-align: center;
+}
+.card display-4{
+    font-size: 35px;
+}
+.img analisis{
+    margin-bottom: 30px;
+}
+.lead {
+    margin-left: 50px;
+}
+.logo1{
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    margin-bottom: auto;
+}
+.logo2{
+    position: absolute;
+    height: 107px;
+    width: 150px;
+    margin-left: 250px;
+    margin-top: 70px;
+}
+.logo3{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    margin-left: 430px;
+    margin-top: 25px;
+}
+.logo4{
+    position: absolute;
+    height: 250px;
+    width: 200px;
+    margin-left: 650px;
+    margin-right: 25px;
+}
+.logo5{
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    margin-top: 50px;
+}
+.logo6{
+    position: absolute;
+    height: 107px;
+    width: 150px;
+    margin-left: 250px;
+    margin-top: 190px;
+}
+.logo7{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    margin-left: 430px;
+    margin-top: 150px;
+}
+.logo8{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    margin-left: 650px;
+    margin-top: 150px;
+}
+
+.back{
+    background-color: rosybrown;
+    margin-top: 40px;
+    padding-bottom: 20px;
+}
+.col-4 {
+    width: 25%;
+    box-sizing: border-box;
+    padding: 5px;
+    float: left;
+}
+.col-4 img {
+    width: 100%;
+}
+.btn5{
+    margin-left: 600px;
+}
+.our1{
+    margin-left: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.our2{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 520px;
+    font-size: 60px;
+}
+.iya{
+    margin-left: 500px;
+    margin-bottom: 50px;
+}
+.cardtext{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+#oyi1{
+    background: #fbfbfb;
+    border-radius: 8px;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+    height:250px;
+    margin: 20rem auto 8.1rem auto;
+    width: 225px;
+    position: relative;
+    position: absolute;
+    top: -500px;
+    left: 15px;
+    z-index: 1;
+  }
+#fname{
+    border-radius: 8px;
+    width: 350px;
+    height: 40px;
+    margin-top: 50px;
+  }
+  #fme{
+    border-radius: 8px;
+    width: 720px;
+    height: 150px;
+    margin-top: 15px;
+  }
+  .au{
+    font-size: 15px;
+}
+
+    .explore3{
+        color:white;
+        background: #744FC6;
+        padding: 9px 15px;
+        margin: 0 0 0 15px;
+        border-radius: 8px;
+        border: 2px  #744FC6;
+        font-family: sans-serif;
+        left: 620px;
+        box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+        position: relative;
+        position: absolute;
+        }
+
+.end{
+    margin-left: 100px ;
+    margin-top: 20px;
+}
+#sosmed{
+    position: relative;
+    top: 20px;
+    left: 5px;
+    width: 50px;
+    height: 40px;
+}
+#sosmed2{
+    position: relative;
+    top: 20px;
+    left: 10px;
+    width: 50px;
+    height: 40px;
+}
+#sosmed3{
+    position: relative;
+    top: 20px;
+    left: 15px;
+    width: 50px;
+    height: 40px;
+}
+#sosmed4{
+    position: relative;
+    top: 20px;
+    left: 20px;
+    width: 50px;
+    height: 40px;
+}
+#sosmed5{
+    position: relative;
+    top: 100px;
+    left: -290px;
+    width: 50px;
+    height: 40px;
+}
+#sosmed6{
+    position: relative;
+    top: 100px;
+    left: -280px;
+    width: 50px;
+    height: 40px;
+}
+#sosmed7{
+    position: relative;
+    top: 100px;
+    left: -270px;
+    width: 50px;
+    height: 40px;
+}
+#sosmed8{
+    position: relative;
+    top: 100px;
+    left: -260px;
+    width: 50px;
+    height: 40px;
+}
+.teks{
+    position: relative;
+    font-size: 16px;
+    top: -250px;
+    left: 450px;
+}
+.teks2{
+    position: relative;
+    font-size: 16px;
+    top: -240px;
+    left: 450px;
+}
+.teks3{
+    position: relative;
+    font-size: 16px;
+    top: -230px;
+    left: 450px;
+}
+.teks4{
+    position: relative;
+    font-size: 16px;
+    top: -220px;
+    left: 450px;
+}
+.teks5{
+    position: relative;
+    font-size: 16px;
+    top: -210px;
+    left: 450px;
+}
+.teks6{
+    position: relative;
+    font-size: 16px;
+    top: -200px;
+    left: 450px;
+}
+.teks7{
+    position: relative;
+    font-size: 16px;
+    top: -412px;
+    left: 600px;
+}
+.teks8{
+    position: relative;
+    font-size: 16px;
+    top: -402px;
+    left: 600px;
+}
+.teks9{
+    position: relative;
+    font-size: 16px;
+    top: -392px;
+    left: 600px;
+}
+.teks10{
+    position: relative;
+    font-size: 16px;
+    top: -382px;
+    left: 600px;
+}
+.teks11{
+    position: relative;
+    font-size: 16px;
+    top: -518px;
+    left: 1000px;
+}
+.teks12{
+    position: relative;
+    font-size: 16px;
+    top: -508px;
+    left: 1000px;
+}
+.teks13{
+    position: relative;
+    font-size: 16px;
+    top: -488px;
+    left: 1000px;
+}
+.teks14{
+    position: relative;
+    font-size: 16px;
+    top: -478px;
+    left: 1000px;
+}
+footer{
+    position: relative;
+    background-color:rosybrown;
+    padding: 30px;
+    text-align: center;
+    bottom: 200px;
+}
